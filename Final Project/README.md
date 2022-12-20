@@ -9,9 +9,9 @@
 - Model : mediapipe, fastdtw
  
 ## Data
-- pinkpong1.mp4 : https://www.youtube.com/watch?v=VwzJOCHNH54
-- dtw_sample_train.mp4 : pinkpong1.mp4 수정본1
-- dtw_sample_test.mp4 : pinkpong1.mp4 수정본2
+- Final_pinkpong1.mp4 : https://www.youtube.com/watch?v=VwzJOCHNH54
+- Final_sample_train.mp4 : pinkpong1.mp4 수정본1
+- Final_sample_test.mp4 : pinkpong1.mp4 수정본2
 - 추가 예정
  
 ## Process
