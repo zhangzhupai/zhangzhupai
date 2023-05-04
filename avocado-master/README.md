@@ -1,6 +1,7 @@
 # 아보카도
 - 동작 인식 기반 어린이 율동 프로그램
- 
+# 주요모델
+- mediapipe, cosine similarity, fastdtw, euclidean distance of cosine similiarity, LSTM
 ## Practice Data
 - pinkpong1.mp4 : https://www.youtube.com/watch?v=VwzJOCHNH54
  1. dtw_sample_train.mp4 : pinkpong1.mp4 수정본1
