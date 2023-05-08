@@ -19,3 +19,6 @@
 ### 4. FINAL PROJECT
 - Mediapipe
 - OPEN CV
+
+### 5. 빅데이터분석기사 실기준비
+- eduatoz 강의참고(https://www.eduatoz.kr/)
